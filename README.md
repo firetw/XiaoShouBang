@@ -1,4 +1,4 @@
-XiaoShouYi
+XiaoShouBang
 ==========
 
-销售易
+销售帮
